@@ -124,6 +124,7 @@ def main():
             if event.type == pygame.QUIT:
                 running = False
             #update population and stuff
+            #this does not work yet
             elif stageCount == 1 and event.type == update:
                 population += round(100 * growthSpeed)
                 growthSpeed += 0.01
