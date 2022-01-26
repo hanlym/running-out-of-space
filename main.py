@@ -1,6 +1,6 @@
 #spend money to build on lot
-#industrial - more money but less housing - slows pop growth by 0.1x
-#residential - more housing but less money - slows pop growth by 0.05x
+#industrial - more money but less housing - slows pop growth by 0.05x
+#residential - more housing but less money - slows pop growth by 0.1x
 #slum (randomly generated - more of them as housing pressure increases) - no contributions (essentially dead lot)
 
 import pygame
